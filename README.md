@@ -2,7 +2,15 @@
 
 homework1 = https://youtu.be/kW5kXMnRjJE
 
+
+https://github.com/user-attachments/assets/9c05ddc5-1475-490d-a2e0-ade70fd7d9c5
+
+
 homework2 = https://youtu.be/o_mMjYsU5co
+
+
+https://github.com/user-attachments/assets/007034e4-4a78-4153-a4db-ce3f1c04a429
+
 
 homework3 
 
