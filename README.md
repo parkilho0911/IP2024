@@ -21,3 +21,6 @@ homework4
 
 https://github.com/user-attachments/assets/e72ffe7b-73a8-42d2-94ad-0ff69529c42c
 
+homework5
+
+![image](https://github.com/user-attachments/assets/d41034ff-a6f3-4f2d-a946-a8df2a85307f)
